@@ -1,5 +1,4 @@
 [William] "Quando a vida te decepciona, qual é a solução? Continue a nadar, continue a nadar, continue a nadar, nadar, nadar..." - Dory, Procurando Nemo
-
 [Marquee] "Estou com sono, logo existo"
 [Pedro] "Com grandes poderes, vem grandes responsabilidades" - ABREU, Caio Fernando
 [Gabi] "Quando você está no fundo do poço, a única direção que você pode ir é para cima" - Sing
@@ -11,3 +10,4 @@
 [Gabi] "Pra quê ser ordinário se você pode ser extraordinário?" - Extraordinário
 [Tiago] "who controls the past controls the future. who controls the present controls the past" - George Orwell
 [Rodolfo] "Em você, a força é forte" - Yoda
+[Tiago] "If I won the award for laziness, I would send somebody to pick it up for me." HUeeeeee 
