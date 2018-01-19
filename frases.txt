@@ -1,8 +1,10 @@
 [William] "Quando a vida te decepciona, qual é a solução? Continue a nadar, continue a nadar, continue a nadar, nadar, nadar..." - Dory, Procurando Nemo
-<<<<<<< HEAD
 
-[Jesus] I'll be back
-=======
 [Marquee] "Estou com sono, logo existo"
 [Pedro] "Com grandes poderes, vem grandes responsabilidades" - ABREU, Caio Fernando
->>>>>>> 816b639bf65fceca970794f01bf6e2fa4d3df81b
+[Gabi] "Quando você está no fundo do poço, a única direção que você pode ir é para cima" - Sing
+[Tiago] "Quando vocês está no fundo do poço, sempre dá pra cavar mais" - William Shakespeare
+[Gabi] "Se você comer um sapo vivo no início do dia, nada de pior te acontecerá" - Não lembro quem
+[Marquee] "Estou com sono, logo existo" MARQUEE, Lucas
+[Pedro] "Com grandes poderes, vem grandes responsabilidades" - ABREU, Caio Fernando
+[Vinicius] "I'll be back"
