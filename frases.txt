@@ -1,10 +1,10 @@
 [William] "Quando a vida te decepciona, qual é a solução? Continue a nadar, continue a nadar, continue a nadar, nadar, nadar..." - Dory, Procurando Nemo
-[Marquee] "Estou com sono, logo existo"
+[Marquee] "Estou com sono, logo existo" - MARQUEE, Lucas
 [Pedro] "Com grandes poderes, vem grandes responsabilidades" - ABREU, Caio Fernando
 [Gabi] "Quando você está no fundo do poço, a única direção que você pode ir é para cima" - Sing
 [Tiago] "Quando vocês está no fundo do poço, sempre dá pra cavar mais" - William Shakespeare
-[Gabi] "Se você comer um sapo vivo no início do dia, nada de pior te acontecerá" - Não lembro quem
-[Marquee] "Estou com sono, logo existo" MARQUEE, Lucas
+[Pedro] "Com grandes poderes, vem grandes responsabilidades" - ABREU, Caio Fernando
+[Emilio] "Rosas são vermelhas, violetas são azuis e a morte é a unica certeza das flores" - FIDALGO, Emilio
 [Pedro] "Com grandes poderes, vem grandes responsabilidades" - ABREU, Caio Fernando
 [Vinicius] "I'll be back"
 [Gabi] "Pra quê ser ordinário se você pode ser extraordinário?" - Extraordinário
